@@ -1,14 +1,20 @@
-DOMAIN-KEYWORD,hamreus   #Tachiyomi漫画软件连接其他软件的接口
+#Tachiyomi漫画软件连接其他软件的接
+DOMAIN-KEYWORD,hamreus   口
 DOMAIN-SUFFIX,manhuagui.com
 DOMAIN-KEYWORD,jav 
 DOMAIN-SUFFIX,nhentai.net
 DOMAIN-KEYWORD,hentai 
-DOMAIN-SUFFIX,picacomic.com #手机粉色app
-DOMAIN-SUFFIX,byrutor.com  #国外游戏下载
-DOMAIN-SUFFIX,dufile.com #dufile网盘
-DOMAIN-SUFFIX,bing.com #bing搜索
-DOMAIN-KEYWORD,mikanani  #蜜柑官网
-DOMAIN-SUFFIX,gkinto.com  #游戏大桶
+DOMAIN-SUFFIX,bing.com
+#手机粉色app
+DOMAIN-SUFFIX,picacomic.com
+#国外游戏下载
+DOMAIN-SUFFIX,byrutor.com 
+#dufile网盘
+DOMAIN-SUFFIX,dufile.com 
+#蜜柑官网
+DOMAIN-KEYWORD,mikanani  
+#游戏大桶
+DOMAIN-SUFFIX,gkinto.com  
 
 
 
